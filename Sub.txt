@@ -1,0 +1,8 @@
+
+#hide-settings: 1
+#subscription-userinfo: upload=0; download=0; total=-0; expire=user_total
+#support-url: https://t.me/UltimateVPNrobot
+#profile-title: Ultimate  VPN Free
+#profile-update-interval: 1
+#profile-web-page-url: https://t.me/UltimateVpn2
+#announce: Наш официальный канал @UltimateVpn2. Просьба, отказаться от торрентов, ведь из-за него может перестать работать большая часть серверов.
